@@ -1,5 +1,7 @@
-pyrogram==1.4.16
+Pyrogram==1.4.16
 TgCrypto
 umongo
 dnspython
-heroku3
+imdbpy==2021.4.18
+requests
+bs4
