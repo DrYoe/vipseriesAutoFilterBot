@@ -62,13 +62,19 @@ def LOGGER(name: str) -> logging.Logger:
 
 
 IMDB_TEXT = """**Hey [{user}](https://t.me/{un}) 
+
 သင်ရှာတဲ့ 👉🏻 {query} 👈🏻  စီးရီးကို VIP Series Channel မှာတင်ထားပါတယ်။
+
 😊 Life Time 3000 Kyats နဲ့ VIP Member ဝင်ဖို့ဖိတ်ခေါ်ပါတယ်ဗျ။
+
 မန်ဘာဝင်ရန်အတွက် အောက်က
 Bot မှာအသေးစိတ်ကြည့်နိုင်ပါတယ်။
+
 နှိပ်ပါ 👉 @YNVIPMEMBERBOT
 Admin အကောင့် 👉 @YoeNaung
+
 __📺 **Movie** : **{title} {year}**
 🌟 **Rating** : {rating}/10
 🔖 **Genres** : {genres}__
+
 **🙋🏼 စီး ရီး ရှာ သူ : [{user}](https://t.me/{un})** """
